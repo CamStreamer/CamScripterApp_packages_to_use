@@ -72,6 +72,10 @@ Script for Axis devices and Raspberry Pi that allows displaying of the weighing 
 
 Script designed for Rasberry Pi and Axis devices with USB (e.g. D3110). The script displays a text string from any USB QR/Barcode reader in the camera image and sends it to the Axis Camera Station.
 
+## teltonikaMonitor
+
+This script displays the current status of Teltonika routers - mobile connection status and type, number of active SIM cards, active network ports, and current GPS position. The script can also be set to display a Google map with the current position.
+
 ## twitter-statuses
 
 Test application for Axis devices to integrate with Twitter.
