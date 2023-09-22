@@ -76,6 +76,8 @@ Script designed for Rasberry Pi and Axis devices with USB (e.g. D3110). The scri
 
 This script displays the current status of Teltonika routers - mobile connection status and type, number of active SIM cards, active network ports, and current GPS position. The script can also be set to display a Google map with the current position.
 
+In addition, the package can download data from AccuWeather based on the current GPS position and send the data to the image (location name, temperature, wind speed and humidity). You need to have your own AccuWeather API key.
+
 ## twitter-statuses
 
 Test application for Axis devices to integrate with Twitter.
