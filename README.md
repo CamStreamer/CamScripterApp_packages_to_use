@@ -60,10 +60,6 @@ Script for Axis devices and Rasberry Pi to display photos of users authorized to
 
 Script for Axis devices and Rasberry Pi that reads data from the Chester IoT Hub and displays it in the camera image (temperature, humidity, and temperature). More [here](https://support.camstreamer.com/hc/en-us/articles/4403345647121-CamScripter-App-Integration-with-CHESTER-IoT-Hub-Shows-Data-in-a-Live-Stream).
 
-## lantronixScaleReader
-
-Script for Axis devices and Rasberry Pi that allows to display of weighing results in the image from the G&G E6000YA scale which is connected via Lantronix UD S2100 serial converter to the network. The script can also send the measured results to the Axis Camera Station or Milestone. More [here](https://support.camstreamer.com/hc/en-us/articles/4417474957969-Electronic-scale-data-integration-with-Lantronix-and-Milestone-AXIS-VMS).
-
 ## mettlerToledoPlugin_1_0_2
 
 Script for Axis devices and Raspberry Pi that allows displaying of the weighing results from MettlerTolledo SICS protocol scales in the camera image and sends the measurement results to the Axis Camera Station.
@@ -85,3 +81,7 @@ Test application for Axis devices to integrate with Twitter.
 ## weatherflow_app
 
 Script for Axis devices and Rasberry Pi that allows displaying weather measured by WeatherFlow weather stations in the camera image.
+
+## weighingScaleIntegration
+
+Script for Axis devices and Rasberry Pi that allows to display of weighing results in the image from the G&G E6000YA scale which is connected via Lantronix or PUSR USR-TCP232-302 serial converter to the network. The script can also send the measured results to the Axis Camera Station or Milestone. More [here](https://support.camstreamer.com/hc/en-us/articles/4417474957969-Electronic-scale-data-integration-with-Lantronix-and-Milestone-AXIS-VMS).
