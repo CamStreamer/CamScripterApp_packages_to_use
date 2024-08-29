@@ -60,6 +60,10 @@ Script for Axis devices and Rasberry Pi to display photos of users authorized to
 
 Script for Axis devices and Rasberry Pi that reads data from the Chester IoT Hub and displays it in the camera image (temperature, humidity, and temperature). More [here](https://support.camstreamer.com/hc/en-us/articles/4403345647121-CamScripter-App-Integration-with-CHESTER-IoT-Hub-Shows-Data-in-a-Live-Stream).
 
+## lutron_luxmeter_integration_1_0_1
+
+Integration of Luxmeter Lutron LX 1180.
+
 ## mettlerToledoPlugin_1_0_2
 
 Script for Axis devices and Raspberry Pi that allows displaying of the weighing results from MettlerTolledo SICS protocol scales in the camera image and sends the measurement results to the Axis Camera Station.
