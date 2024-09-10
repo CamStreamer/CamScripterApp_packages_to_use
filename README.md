@@ -68,6 +68,10 @@ Integration of Luxmeter Lutron LX 1180.
 
 Script for Axis devices and Raspberry Pi that allows displaying of the weighing results from MettlerTolledo SICS protocol scales in the camera image and sends the measurement results to the Axis Camera Station.
 
+## papago_temperature_1_0_0
+
+Script that reads the temperature from the selected sensor on the PAPAGO 2TH ETH device.
+
 ## qrBarcodeReader
 
 Script designed for Rasberry Pi and Axis devices with USB (e.g. D3110). The script displays a text string from any USB QR/Barcode reader in the camera image and sends it to the Axis Camera Station.
