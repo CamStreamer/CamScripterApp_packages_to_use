@@ -1,5 +1,9 @@
 # Ready to use packages for CamScripter App ACAP application.
 
+## aoa_counter
+
+Script for reading data from Axis Object Analytics. Script pushes the current or cumulative AOA scenarios counts into CamOverlay Custom Graphics Widget.
+
 ## flowmeter
 
 Script for Rasberry Pi. The script can measure water flow and display it in the camera image. More [here](https://support.camstreamer.com/hc/en-us/articles/4408071906577-Flow-Meter-integration).
