@@ -90,6 +90,10 @@ In addition, the package can download data from AccuWeather based on the current
 
 Test application for Axis devices to integrate with Twitter.
 
+## videoCheckpoint
+
+Script designed for Rasberry Pi and Axis devices with USB (e.g. D3110). A solution for retail, warehousing and manufacturing clients to retrieve barcode scanner data, overlay data on a video stream and upload media content to FTP or Google Drive or send an event to Axis Camera Station.
+
 ## weatherflow_app
 
 Script for Axis devices and Rasberry Pi that allows displaying weather measured by WeatherFlow weather stations in the camera image.
