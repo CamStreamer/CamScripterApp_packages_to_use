@@ -100,4 +100,4 @@ Script for Axis devices and Rasberry Pi that allows displaying weather measured 
 
 ## weighingScaleIntegration
 
-Script for Axis devices and Rasberry Pi that allows to display of weighing results in the image from the G&G E6000YA scale which is connected via Lantronix or PUSR USR-TCP232-302 serial converter to the network. The script can also send the measured results to the Axis Camera Station or Milestone. More [here](https://support.camstreamer.com/hc/en-us/articles/4417474957969-Electronic-scale-data-integration-with-Lantronix-and-Milestone-AXIS-VMS).
+Script for Axis devices and Rasberry Pi that allows to display of weighing results in the image from the G&G E6000YA scale which is connected via Lantronix or PUSR USR-TCP232-302 serial converter to the network. The script can also send the measured results to the Axis Camera Station. More [here](https://support.camstreamer.com/hc/en-us/articles/4417474957969-Electronic-scale-data-integration-with-Lantronix-and-Axis-Camera-Station).
