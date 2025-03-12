@@ -76,9 +76,6 @@ Script for Axis devices and Raspberry Pi that allows displaying of the weighing 
 
 Script that reads the temperature from the selected sensor on the PAPAGO 2TH ETH device.
 
-## qrBarcodeReader
-
-Script designed for Rasberry Pi and Axis devices with USB (e.g. D3110). The script displays a text string from any USB QR/Barcode reader in the camera image and sends it to the Axis Camera Station.
 
 ## teltonikaMonitor
 
