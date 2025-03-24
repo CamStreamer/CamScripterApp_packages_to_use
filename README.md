@@ -76,7 +76,6 @@ Script for Axis devices and Raspberry Pi that allows displaying of the weighing 
 
 Script that reads the temperature from the selected sensor on the PAPAGO 2TH ETH device.
 
-
 ## teltonikaMonitor
 
 This script displays the current status of Teltonika routers - mobile connection status and type, number of active SIM cards, active network ports, and current GPS position. The script can also be set to display a Google map with the current position.
@@ -89,7 +88,7 @@ Test application for Axis devices to integrate with Twitter.
 
 ## videoCheckpoint
 
-Script designed for Rasberry Pi and Axis devices with USB (e.g. D3110). A solution for retail, warehousing and manufacturing clients to retrieve barcode scanner data, overlay data on a video stream and upload media content to FTP or Google Drive or send an event to Axis Camera Station and Genetec VMS.
+Script designed for Raspberry Pi and Axis devices with USB (e.g., D3110). A solution for retail, warehousing, and manufacturing clients to retrieve barcode scanner data, overlay it on a video stream, and upload media content to FTP or Google Drive, or send events to Axis Camera Station, Genetec VMS, and Milestone VMS.
 
 ## weatherflow_app
 
