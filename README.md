@@ -36,6 +36,11 @@ Script for Axis devices and Raspberry Pi that allows displaying the camera posit
 
 Script for Axis devices and Rasberry Pi generating an air quality widget taken from https://aqicn.org into the camera image. More [here](https://support.camstreamer.com/hc/en-us/articles/360018803378-How-to-set-up-integration-of-World-Air-Quality-Index).
 
+## axisAirQualitySensor
+
+Script for Axis devices and Rasberry Pi generating an air quality widget which integrates data from the AXIS D6210 Air Quality Sensor and displays it in the
+camera image via the CamOverlay App.
+
 ## camOverlayRemoteControl
 
 A script for Axis devices and Raspberry Pi that allows updating texts in the CamOverlay App via integration with Google Sheets.
