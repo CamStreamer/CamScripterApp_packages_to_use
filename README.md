@@ -38,7 +38,7 @@ Script for Axis devices and Rasberry Pi generating an air quality widget taken f
 
 ## axisAirQualitySensor
 
-Script for Axis devices and Rasberry Pi generating an air quality widget which integrates data from the AXIS D6210 Air Quality Sensor and displays it in the
+Script for Axis devices and Rasberry Pi generating an air quality widget which integrates data from the AXIS D6210/D6310 Air Quality Sensor and displays it in the
 camera image via the CamOverlay App.
 
 ## camOverlayRemoteControl
