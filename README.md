@@ -1,6 +1,6 @@
 # Ready to use packages for CamScripter App ACAP application.
 
-## aoa_counter
+## aoa\_counter
 
 Script for reading data from Axis Object Analytics. Script pushes the current or cumulative AOA scenarios counts into CamOverlay Custom Graphics Widget.
 
@@ -32,7 +32,7 @@ Script for Axis devices and Rasberry Pi generating graphics containing license p
 
 Script for Axis devices and Raspberry Pi that allows displaying the camera position on Google Maps in the camera image. The script works with [SmartFlex](https://www.advantech.com/en/products/cellular-routers-and-gateways/sub_d608fb78-59ab-4928-bb66-1f2347947019) modems.
 
-## aqi_app
+## aqi\_app
 
 Script for Axis devices and Rasberry Pi generating an air quality widget taken from https://aqicn.org into the camera image. More [here](https://support.camstreamer.com/hc/en-us/articles/360018803378-How-to-set-up-integration-of-World-Air-Quality-Index).
 
@@ -69,15 +69,15 @@ Script for Axis devices and Rasberry Pi to display photos of users authorized to
 
 Script for Axis devices and Rasberry Pi that reads data from the Chester IoT Hub and displays it in the camera image (temperature, humidity, and temperature). More [here](https://support.camstreamer.com/hc/en-us/articles/4403345647121-CamScripter-App-Integration-with-CHESTER-IoT-Hub-Shows-Data-in-a-Live-Stream).
 
-## lutron_luxmeter_integration_1_0_1
+## lutron\_luxmeter\_integration\_1\_0\_1
 
 Integration of Luxmeter Lutron LX 1180.
 
-## mettlerToledoPlugin_1_0_2
+## mettlerToledoPlugin\_1\_0\_2
 
 Script for Axis devices and Raspberry Pi that allows displaying of the weighing results from MettlerTolledo SICS protocol scales in the camera image and sends the measurement results to the Axis Camera Station.
 
-## papago_temperature_1_0_0
+## papago\_temperature\_1\_0\_0
 
 Script that reads the temperature from the selected sensor on the PAPAGO 2TH ETH device.
 
@@ -95,10 +95,15 @@ Test application for Axis devices to integrate with Twitter.
 
 Script designed for Raspberry Pi and Axis devices with USB (e.g., D3110). A solution for retail, warehousing, and manufacturing clients to retrieve barcode scanner data, overlay it on a video stream, and upload media content to FTP or Google Drive, or send events to Axis Camera Station, Genetec VMS, and Milestone VMS.
 
-## weatherflow_app
+## weatherflow\_app
 
 Script for Axis devices and Rasberry Pi that allows displaying weather measured by WeatherFlow weather stations in the camera image.
 
 ## weighingScaleIntegration
 
-Script for Axis devices and Rasberry Pi that allows to display of weighing results in the image from the G&G E6000YA scale which is connected via Lantronix or PUSR USR-TCP232-302 serial converter to the network. The script can also send the measured results to the Axis Camera Station. More [here](https://support.camstreamer.com/hc/en-us/articles/4417474957969-Electronic-scale-data-integration-with-Lantronix-and-Axis-Camera-Station).
+Script for Axis devices and Rasberry Pi that allows to display of weighing results in the image from the G\&G E6000YA scale which is connected via Lantronix or PUSR USR-TCP232-302 serial converter to the network. The script can also send the measured results to the Axis Camera Station. More [here](https://support.camstreamer.com/hc/en-us/articles/4417474957969-Electronic-scale-data-integration-with-Lantronix-and-Axis-Camera-Station).
+
+## rssReader
+
+Script for Axis devices and Raspberry Pi that reads RSS/Atom feeds and pushes article titles or descriptions to the CamOverlay App Infoticker or Custom Graphics widget. The script supports RSS 2.0, Atom, and RSS 1.0 (RDF) feed formats with automatic redirect handling.
+
